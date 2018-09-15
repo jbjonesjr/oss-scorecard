@@ -1,0 +1,33 @@
+{
+ repo,
+ dependents,
+ committers,
+ commits_last90,
+ committers_last90,
+ pulls_last90:{
+   opened,
+   closed,
+   merged
+ },
+ committers_last180,
+ 2fa_percentage,
+ gpg_percentage,
+ openvulns,
+ totalvulns,
+ opensourceaudit: {
+   license,
+   copyright,
+   contributing,
+   readme,
+   contributor_agreement,
+   github_health_score
+  },
+ commiters: [
+   {
+     2fa,
+     first_time,
+     other projects,
+     commit_timeofday
+   }
+ ]
+}
