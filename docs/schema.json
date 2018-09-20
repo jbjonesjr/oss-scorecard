@@ -9,6 +9,8 @@
    closed,
    merged
  },
+ apps, // array of apps/integrations
+ app_security_score, //do they use security apps
  committers_last180,
  2fa_percentage,
  gpg_percentage,
